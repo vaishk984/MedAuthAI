@@ -1,4 +1,4 @@
-# MedAuthAI - An AI Based Detection of Counterfeit Medicines
+# MedAuthAI - AI Based Detection of Counterfeit Medicines
 
 This project uses **YOLOv8** (Ultralytics) to detect and classify medicines as **authentic** or **counterfeit** from images.  
 It leverages deep learning for object detection and can be deployed for real-world pharmaceutical verification.
