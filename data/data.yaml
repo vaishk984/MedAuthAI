@@ -1,0 +1,11 @@
+path: /content/dataset  # dataset folder inside your project
+
+train: /content/dataset/test
+val: /content/dataset/valid
+test: /content/dataset/test
+
+nc: 2
+
+names:
+  - authentic
+  - counterfeit

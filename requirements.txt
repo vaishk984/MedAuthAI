@@ -1,0 +1,22 @@
+# Core ML / DL libraries
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.134   # YOLOv8, remove if using YOLOv5
+
+# Data handling
+numpy==1.24.3
+pandas==2.0.3
+
+# Image processing
+opencv-python==4.7.0.72
+Pillow==9.5.0
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Utility
+tqdm==4.65.0
+PyYAML==6.0
+
+jupyter==1.0.0
